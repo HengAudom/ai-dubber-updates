@@ -1,6 +1,7 @@
 {
   "version": "2.0",
   "download_url": "https://github.com/HengAudom/ai-dubber-updates/releases/download/Al_Dubber_Ultimate_v2.0/AI_Dubber_Ultimate.exe",
-  "notes": "- បន្ថែមមុខងារ Auto Update ស្វ័យប្រវត្តិ\n- Download ចប់ហើយជំនួស Version ចាស់ដោយស្វ័យប្រវត្តិ\n- កែសម្រួល Error Python DLL\n- បង្ហាញ Size និងល្បឿន Download"
+  "notes": "- បន្ថែមមុខងារ Auto Update ស្វ័យប្រវត្តិ\n- Download ចប់ហើយជំនួស Version ចាស់ដោយស្វ័យប្រវត្តិ\n- កែសម្រួល Error Python DLL\n- បង្ហាញ Size និងល្បឿន Download\n- បន្ថែមមុខងារ Keyboard Shortcuts - Space, Ctrl+O/I/E/M/S, Delete, ←/→\n- បន្ថែម AI Gender Detection\n- Export Video លឿនជាងមុន\n- Import SRT លឿន\n- Fix Mirror Video mirror តែ video layer\n- Fix Color Adjust save/load\n- Fix Double Export\n- Fix Preview Voice freeze UI\n- Timeline redesign\n- Font Kantumruy Pro ទូទាំង app"
 }
+
 
